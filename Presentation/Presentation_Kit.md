@@ -80,7 +80,7 @@ Nous avons préparé tout ce qu'il faut pour commencer **aujourd'hui** :
 **Titre :** Activez votre Assistant maintenant
 
 1.  **Récupérer le Kit :**
-    *   Allez sur : `https://gitlab.com/sandrineboiteau0/kitassistantia`
+    *   Allez sur : `https://github.com/saboiteau/MonKitASsistantIA`
     *   Téléchargez le ZIP ou faites un `git clone`.
 
 2.  **Charger dans l'IA :**
