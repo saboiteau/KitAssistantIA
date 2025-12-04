@@ -6,9 +6,22 @@ Ce dossier centralise les meilleurs prompts collectés, organisés par cas d'usa
 
 ### ⚡ Gestion de Projet & Agile
 *   **[Transformation Réunion en User Stories](Gestion_Projet_Agile.md#transformation-réunion-en-user-stories)** : Génère CR + US Jira à partir d'une transcription.
+*   **[Agent "Coach Rétro" pour Rétrospectives Approfondies](Gestion_Projet_Agile.md#agent-coach-rétro-pour-rétrospectives-approfondies)** : Bi-modal (Game Master + Analyste Systèmes) pour dynamiser rétrospectives.
+*   **[Agent "Challenger" pour Muscler Vos Idées](Gestion_Projet_Agile.md#agent-challenger-pour-muscler-vos-idées)** : Sparring-partner IA jouant l'avocat du diable pour tester robustesse idées.
 
 ### 🗣️ Communication & Vulgarisation
 *   **[L'Agent Traducteur Tech/Business](Communication_Vulgarisation.md#lagent-traducteur-techbusiness)** : Explique le jargon technique aux parties prenantes business.
+
+### ✍️ Rédaction & Écriture
+*   **[Méthode Anti-Médiocrité IA](Redaction_Ecriture.md#méthode-anti-médiocrité-ia-benoît-raphaël)** : 4 étapes pour sortir du texte générique (contraintes, structures narratives, Open Loops).
+*   **[Guide Personnel de Rédaction](Guide_Personnel_Redaction.md)** : Appliquer la méthode Raphaël à ses propres articles (Checklist, Prompts personnalisés).
+*   **[Checklist de Relecture](Checklist_Relecture_Article.md)** : Les points clés à vérifier avant de publier (Open Loop, Tics de langage, Concret).
+
+### 🎓 Formation & Acculturation
+*   **[Programme d'Acculturation IA](Formation_Acculturation.md#programme-dacculturation-ia-modèle-adeo)** : Structure 2 modules + système de champions (modèle Adeo/TechRocks).
+
+### 🌍 Stratégie & Géopolitique
+*   **[Analyse Géopolitique d'une Technologie](Strategie_Geopolitique.md#analyse-géopolitique-dune-technologie)** : Framework 3 goulots (matériel, talents, modèles) pour évaluer dépendances.
 
 ## 🛠️ Comment utiliser cette banque ?
 
