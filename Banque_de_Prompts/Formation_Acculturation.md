@@ -1,12 +1,12 @@
 # 🎓 Formation & Acculturation IA
 
-## Programme d'Acculturation IA (Modèle Adeo)
+## Programme d'Acculturation IA
 **Tag :** #Training #ChangeManagement #Adoption
 
 ### 📄 Le Problème
 Vous devez former vos équipes/clients à l'IA, mais comment structurer un programme qui reste pertinent malgré l'évolution rapide de la technologie ?
 
-### 🎯 Le Modèle Adeo (TechRocks 2025)
+### 🎯 Le Modèle en 2 Modules
 
 **Structure en 2 Modules :**
 
@@ -94,7 +94,7 @@ Objectif : Qu'ils repartent en se disant "Je peux tester ça dès demain".
 
 ### 🎯 Rôle du DSI/Manager
 
-**Principe (Yves Caseau, Michelin) :**
+**Principe (Expert DSI, Grande Entreprise) :**
 > "Il y a toujours un petit groupe de gens qui voudra s'emparer d'une nouvelle technologie, avancer rapidement dessus. Le rôle du DSI est de faire en sorte d'abaisser les barrières pour que ces gens puissent avancer."
 
 **Actions concrètes :**

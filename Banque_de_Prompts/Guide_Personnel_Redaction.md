@@ -1,9 +1,9 @@
 # 📝 Guide Personnel : Appliquer la Méthode Raphaël à Mes Articles
 
-## Pour Sandrine : Comment Utiliser Ces Techniques
+## Comment Utiliser Ces Techniques
 
 ### 🎯 Votre Contexte
-Vous rédigez des articles LinkedIn et des publications sur l'IA, le management, la transformation. Vous avez déjà un style personnel fort, mais vous voulez éviter que l'IA "lisse" votre voix.
+Vous rédigez des articles LinkedIn et des publications professionnelles. Vous avez déjà un style personnel, mais vous voulez éviter que l'IA "lisse" votre voix.
 
 ---
 

@@ -13,12 +13,13 @@ Ce dossier centralise les meilleurs prompts collectés, organisés par cas d'usa
 *   **[L'Agent Traducteur Tech/Business](Communication_Vulgarisation.md#lagent-traducteur-techbusiness)** : Explique le jargon technique aux parties prenantes business.
 
 ### ✍️ Rédaction & Écriture
-*   **[Méthode Anti-Médiocrité IA](Redaction_Ecriture.md#méthode-anti-médiocrité-ia-benoît-raphaël)** : 4 étapes pour sortir du texte générique (contraintes, structures narratives, Open Loops).
-*   **[Guide Personnel de Rédaction](Guide_Personnel_Redaction.md)** : Appliquer la méthode Raphaël à ses propres articles (Checklist, Prompts personnalisés).
-*   **[Checklist de Relecture](Checklist_Relecture_Article.md)** : Les points clés à vérifier avant de publier (Open Loop, Tics de langage, Concret).
+*   **[Méthode Anti-Médiocrité IA](Redaction_Ecriture.md#méthode-anti-médiocrité-ia)** : 4 étapes pour sortir du texte générique (contraintes, structures narratives, Open Loops).
 
 ### 🎓 Formation & Acculturation
-*   **[Programme d'Acculturation IA](Formation_Acculturation.md#programme-dacculturation-ia-modèle-adeo)** : Structure 2 modules + système de champions (modèle Adeo/TechRocks).
+*   **[Programme d'Acculturation IA](Formation_Acculturation.md#programme-dacculturation-ia)** : Structure 2 modules + système de champions.
+
+### 🎯 Marketing & Recherche Utilisateur
+*   **[Personas "Hyper-Réalistes"](Marketing_Recherche_Utilisateur.md#personas-hyper-réalistes-données--web)** : Combine données internes et recherche web pour des personas complets.
 
 ### 🌍 Stratégie & Géopolitique
 *   **[Analyse Géopolitique d'une Technologie](Strategie_Geopolitique.md#analyse-géopolitique-dune-technologie)** : Framework 3 goulots (matériel, talents, modèles) pour évaluer dépendances.
@@ -34,7 +35,7 @@ Il permet à votre IA de scanner cette liste pour trouver l'outil qu'il vous fau
 2.  **Copier-Coller** : Copiez le bloc de prompt.
 3.  **Adaptation** : Remplacez les éléments entre crochets `[ ]` si nécessaire.
 
-## 🔒 Rappel Sécurité (SFEIR/Client)
+## 🔒 Rappel Sécurité
 *   **Anonymisation** : "Projet Alpha", "Client X".
-*   **Outils** : Privilégier Raise ou les instances sécurisées.
+*   **Outils** : Privilégier les instances sécurisées.
 *   **Vérification** : Toujours relire avant diffusion.

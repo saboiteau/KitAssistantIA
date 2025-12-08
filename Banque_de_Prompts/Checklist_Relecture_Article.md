@@ -85,7 +85,7 @@ Utilisez cette checklist APRÈS avoir rédigé votre article (avec ou sans IA).
   - Faire la distinction de manière fluide, pas "les faits : / ma déduction :"
 
 - [ ] **Ai-je cité mes sources pour les chiffres/études ?**
-  - "Selon WEnvision...", "Une étude de 2024 montre..."
+  - "Selon [Source]...", "Une étude de 2024 montre..."
 
 ---
 

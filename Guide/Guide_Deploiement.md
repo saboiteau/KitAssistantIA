@@ -1,6 +1,6 @@
 # 📘 Guide de Déploiement : Mon Assistant IA
 
-Ce guide vous permet de créer votre propre "Double Numérique" ou Assistant IA personnalisé, sur le modèle de celui utilisé par Sandrine Boiteau.
+Ce guide vous permet de créer votre propre "Double Numérique" ou Assistant IA personnalisé.
 
 ## 🌟 Pourquoi créer ce kit ?
 
@@ -41,4 +41,4 @@ Vous n'avez pas besoin de tout modifier, la structure est déjà optimisée.
 *   **Feedback** : Si l'IA répond à côté, dites-lui : *"Ce n'est pas ma voix. Relis la section Style de mon profil."*
 
 ---
-*Kit conçu par l'équipe WEnvision - Basé sur la méthodologie "Mon Assistant IA"*
+*Kit basé sur la méthodologie "Mon Assistant IA"*

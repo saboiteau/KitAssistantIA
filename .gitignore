@@ -1,9 +1,146 @@
-# System files
+# ========================================
+# .gitignore pour Kit de Duplication Assistant IA
+# ========================================
+# Ce fichier protège vos données privées et fichiers de travail
+# lors du push sur GitHub ou autre dépôt public.
+
+# ========================================
+# FICHIERS SYSTÈME
+# ========================================
 Thumbs.db
 Desktop.ini
 .DS_Store
+*.tmp
+*.temp
 
-# IDE files
+# ========================================
+# IDE ET ÉDITEURS
+# ========================================
 .vscode/
 .idea/
 *.swp
+*.swo
+*~
+.project
+.settings/
+
+# ========================================
+# DONNÉES PRIVÉES ET PERSONNELLES
+# ========================================
+
+# Fichiers contenant des données personnelles
+*_PRIVE*
+*_PRIVATE*
+*_PERSO*
+*_PERSONNEL*
+
+# Fichiers de travail et brouillons
+*_DRAFT*
+*_BROUILLON*
+*_WIP*
+*_TODO*
+
+# Fichiers de statut et logs
+status_*.txt
+remote_*.txt
+*.log
+
+# Fichiers de configuration avec clés API
+.env
+.env.local
+.env.*.local
+config_local.*
+
+# ========================================
+# FICHIERS SPÉCIFIQUES AU KIT
+# ========================================
+
+# Exemples remplis (ne pas partager les profils complétés)
+Profil_Expert_Complete.md
+Mon_Profil_*.md
+Mes_Prompts_*.md
+
+# Données de veille personnelles (si présentes)
+Veille/
+veille_auto/
+urls-to-process.txt
+PROCESSED_URLS.txt
+
+# Connaissances personnelles (ne partager que les templates)
+Connaissances/*
+!Connaissances/README.md
+!Connaissances/.gitkeep
+
+# ========================================
+# FICHIERS DE TRAVAIL ET TESTS
+# ========================================
+
+# Fichiers de test
+test_*.md
+TEST_*.md
+exemple_complete_*.md
+
+# Sauvegardes
+*.bak
+*.backup
+*_backup.*
+*_old.*
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# ========================================
+# DOSSIERS À EXCLURE
+# ========================================
+
+# Dossier de travail personnel
+Mes_Documents/
+Travail_En_Cours/
+Brouillons/
+
+# Dossiers de build/dist (si applicable)
+dist/
+build/
+node_modules/
+
+# ========================================
+# FICHIERS SPÉCIFIQUES WINDOWS
+# ========================================
+$RECYCLE.BIN/
+*.lnk
+
+# ========================================
+# EXCEPTIONS (Fichiers à TOUJOURS inclure)
+# ========================================
+
+# Templates vides (à partager)
+!Templates/*.md
+
+# README et guides (à partager)
+!README.md
+!*/README.md
+
+# Banque de prompts (à partager si anonymisée)
+!Banque_de_Prompts/*.md
+
+# Guides et présentations (à partager)
+!Guide/*.md
+!Presentation/*.md
+
+# ========================================
+# NOTES
+# ========================================
+# Ce .gitignore protège :
+# 1. Vos données personnelles (*_PRIVE*, *_PERSO*)
+# 2. Vos fichiers de travail (*_DRAFT*, *_WIP*)
+# 3. Vos profils complétés (Profil_Expert_Complete.md)
+# 4. Vos données de veille personnelles
+# 5. Vos connaissances privées
+#
+# Il autorise :
+# 1. Tous les templates vides
+# 2. Tous les README et guides
+# 3. La banque de prompts anonymisée
+# 4. Les présentations

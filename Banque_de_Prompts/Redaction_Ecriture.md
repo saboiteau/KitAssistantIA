@@ -1,6 +1,6 @@
 # ✍️ Rédaction & Écriture avec IA
 
-## Méthode Anti-Médiocrité IA (Benoît Raphaël)
+## Méthode Anti-Médiocrité IA
 **Tag :** #Writing #Quality #Constraints #Creativity
 
 ### 📄 Le Problème
