@@ -24,6 +24,10 @@ Ce dossier centralise les meilleurs prompts collectés, organisés par cas d'usa
 ### 🌍 Stratégie & Géopolitique
 *   **[Analyse Géopolitique d'une Technologie](Strategie_Geopolitique.md#analyse-géopolitique-dune-technologie)** : Framework 3 goulots (matériel, talents, modèles) pour évaluer dépendances.
 
+### 🎨 Design & Visuels
+*   **[Génération de Carrousel LinkedIn](Design_Visuels.md#génération-de-carrousel-linkedin)** : Crée structure et visuels pour carrousels.
+*   **[Illustration d'Article de Fond](Design_Visuels.md#illustration-darticle-de-fond)** : Crée des métaphores visuelles pour illustrer des concepts complexes.
+
 ## 🛠️ Comment utiliser cette banque ?
 
 ### 🕵️ Le Moteur de Recherche (Meta-Prompt)

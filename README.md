@@ -18,6 +18,7 @@ Collection de **12 prompts réutilisables** organisés par cas d'usage :
 - Génération de Slides de Conférence
 - Marketing & Recherche Utilisateur
 - Spec-Driven Development
+- Design & Visuels (Carrousels, Illustrations)
 
 👉 **[Voir le README de la Banque de Prompts](Banque_de_Prompts/README.md)**
 
@@ -94,7 +95,7 @@ Si l'IA répond à côté, dites-lui : *"Ce n'est pas ma voix. Relis la section 
 
 ## 🔗 Ressources Complémentaires
 
-- **Dépôt principal** : [Mon Assistant IA](https://github.com/saboiteau/MonAssistantIA)
+- **Dépôt principal** : [Mon Assistant IA](https://github.com/saboiteau/MonAssistantIAv2)
 - **Articles de référence** : Consultez le dossier `LinkedIn et articles/publies/` du dépôt principal
 
 ## 📝 Licence
